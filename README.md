@@ -104,8 +104,9 @@ Comprehensive repository exploring **HMVC architecture** and design patterns in 
 - Created **Tabe3 platform** (CMS + API + Dispatcher) for real-time delivery tracking
 - Integrated driver applications with real-time communication systems
 
-**Software Engineer**
--Worked since 2018 for a variety of clients and outsource,solutions and product-based companies.
+**Software Engineer** *(2018 - 2021)*
+- Worked for a variety of clients and outsource, solutions and product-based companies
+
 ---
 
 ## 🎯 Current Focus
@@ -134,7 +135,21 @@ I'm always open to discussing new opportunities, collaborations, or interesting 
 - 💼 **LinkedIn:** [Mohammad Ali Abd Al-Wahed](https://www.linkedin.com/in/mohammad-ali-abdul-wahed-1533b9171/)
 - 📧 **Email:** aliabdm@gmail.com
 - 🌐 **Portfolio:** [senior-mohammad-ali.vercel.app](https://senior-mohammad-ali.vercel.app/)
-- 📍 **Location:** Amman, Jordan (Open to Remote & Relocation)
+
+---
+
+## 📍 Location & Nationality
+
+<div align="center">
+  
+### 🇸🇾 Syrian National
+  
+**Based in:** Amman, Jordan  
+**Work Preferences:** Open to Remote & Relocation  
+
+<img src="https://flagcdn.com/w320/sy.png" width="200" alt="Syrian Flag" />
+
+</div>
 
 ---
 
