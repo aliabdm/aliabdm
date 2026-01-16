@@ -2,11 +2,11 @@
 
 **Senior Software Engineer** | SaaS Architect | Backend Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aliabdm/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammad-ali-abdul-wahed-1533b9171/)
 [![Email](https://img.shields.io/badge/Email-aliabdm%40gmail.com-red?style=flat&logo=gmail)](mailto:aliabdm@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat&logo=vercel)](https://senior-mohammad-ali.vercel.app/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@aliabdm)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=flat&logo=dev.to)](https://dev.to/aliabdm)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=flat&logo=dev.to)](https://dev.to/maliano63717738)
 
 ---
 
@@ -121,7 +121,7 @@ Comprehensive repository exploring **HMVC architecture** and design patterns in 
 
 I document my learning journey and share insights on software architecture, design patterns, and modern development practices:
 
-- 📝 **[Dev.to Articles](https://dev.to/aliabdm)** – Technical tutorials and guides
+- 📝 **[Dev.to Articles](https://dev.to/maliano63717738)** – Technical tutorials and guides
 - 📰 **[Medium Blog](https://medium.com/@aliabdm)** – Deep dives into software engineering
 - 📚 **[Documentation Portfolio](https://drive.google.com/drive/u/0/folders/1jbzXmJz7Uu3Ci7Uy2Q14qRQ6NtvnIIg)** – Research reports, studies, and project manuals
 
@@ -131,7 +131,7 @@ I document my learning journey and share insights on software architecture, desi
 
 I'm always open to discussing new opportunities, collaborations, or interesting technical challenges.
 
-- 💼 **LinkedIn:** [Mohammad Ali Abd Al-Wahed](https://www.linkedin.com/in/aliabdm/)
+- 💼 **LinkedIn:** [Mohammad Ali Abd Al-Wahed](https://www.linkedin.com/in/mohammad-ali-abdul-wahed-1533b9171/)
 - 📧 **Email:** aliabdm@gmail.com
 - 🌐 **Portfolio:** [senior-mohammad-ali.vercel.app](https://senior-mohammad-ali.vercel.app/)
 - 📍 **Location:** Amman, Jordan (Open to Remote & Relocation)
