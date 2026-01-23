@@ -1,4 +1,4 @@
-# Mohammad Ali Abd Al-Wahed
+# Mohammad Ali Abdul Wahed
 
 **Senior Software Engineer** | SaaS Architect | Backend Specialist
 
