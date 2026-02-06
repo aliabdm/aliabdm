@@ -56,6 +56,23 @@ Currently leading initiatives at **Evalufy.com**, an AI video assessment platfor
 
 ## 🚀 Featured Projects
 
+### 🤖 [Laravel AI Showcase](https://github.com/aliabdm/laravel-ai-showcase) ⭐ NEW!
+Complete AI agent built with **Laravel AI SDK** in 24 hours. Features real-time streaming, image generation, TTS, and vector search. Includes **Mock Mode** for instant demos without API keys.
+
+**🔗 Live Demo:** [laravel-ai-showcase.onrender.com](https://laravel-ai-showcase.onrender.com/)
+
+**Tech:** `Laravel 11` `Laravel AI SDK` `Server-Sent Events` `Mock Provider` `Production-Ready`
+
+**Key Features:**
+- ✨ Mock Mode – Try without API keys
+- 🔄 Real-time streaming responses
+- 🎨 Image generation
+- 🔊 Text-to-speech
+- 🔍 Vector search with embeddings
+- 🎯 Session-based mode switching
+
+---
+
 ### 🤖 [Plainaid](https://github.com/aliabdm/plainaid)
 Transform complex legal and official documents into clear, actionable information using **Elixir**, **Phoenix LiveView**, and **AI**. Privacy-first approach with no signup required.
 
@@ -112,7 +129,7 @@ Comprehensive repository exploring **HMVC architecture** and design patterns in 
 ## 🎯 Current Focus
 
 - 🏗️ Architecting scalable multi-tenant SaaS platforms at Bayt.com
-- 🤖 Exploring AI/RAG systems and LangChain integrations
+- 🤖 Exploring AI integration with Laravel AI SDK and RAG systems
 - 🔧 Building with Elixir/Phoenix and Ruby on Rails
 - 📚 Mentoring junior developers and promoting clean code practices
 
