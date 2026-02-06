@@ -61,7 +61,7 @@ Complete AI agent built with **Laravel AI SDK** in 24 hours. Features real-time 
 
 **🔗 Live Demo:** [laravel-ai-showcase.onrender.com](https://laravel-ai-showcase.onrender.com/)
 
-**Tech:** `Laravel 11` `Laravel AI SDK` `Server-Sent Events` `Mock Provider` `Production-Ready`
+**Tech:** `Laravel 12` `Laravel AI SDK` `Server-Sent Events` `Mock Provider` `Production-Ready`
 
 **Key Features:**
 - ✨ Mock Mode – Try without API keys
