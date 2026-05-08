@@ -1,6 +1,6 @@
 # Mohammad Ali Abdul Wahed
 
-**Senior Software Engineer** | SaaS Architect | Backend Specialist
+**Senior Software Engineer** | SaaS Architect | AI & Backend Systems Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammad-ali-abdul-wahed-1533b9171/)
 [![Email](https://img.shields.io/badge/Email-aliabdm%40gmail.com-red?style=flat&logo=gmail)](mailto:aliabdm@gmail.com)
@@ -12,164 +12,137 @@
 
 ## 👨‍💻 About Me
 
-I'm a Senior Software Engineer, specializing in building scalable **platforms** for HR and recruitment. Based in Amman, Jordan, I focus on crafting high-performance backend systems using **Laravel**, implementing **AI-powered solutions**, and architecting robust microservices.
+I'm a Senior Software Engineer specializing in scalable SaaS platforms, backend systems, and practical AI integrations.
 
-My expertise lies in:
-- 🏗️ **SaaS Architecture** – Multi-tenant system design, scalability, and performance optimization
-- 🧠 **AI Integration** – RAG systems, AI-powered assessments, and intelligent automation
-- 🔧 **Backend Excellence** – Laravel, Elixir/Phoenix, Ruby on Rails, microservices
-- 📊 **System Design** – SOLID principles, design patterns, ACID-compliant databases
-- 🚀 **DevOps** – Docker, queue management, caching strategies, SSO implementation
+My background is heavily focused on HR and recruitment technology, where I build high-performance systems, architect scalable products, and integrate AI into real-world workflows.
 
-Currently leading initiatives at **Evalufy.com**, an AI video assessment platform, where I mentor junior developers, optimize system architecture, and integrate with global HRMS platforms like SAP SuccessFactors.
+I enjoy building products that combine:
+- 🧠 AI reasoning systems
+- 🏗️ scalable backend architecture
+- ⚡ performance-focused engineering
+- 🔧 clean and maintainable codebases
+
+Currently working on enterprise HR platforms and AI-powered assessment systems while exploring modern AI application architecture using open models like Gemma 4.
+
+---
+
+## 🚀 Featured AI Project
+
+### 👻 [Ghost Job Detector](https://github.com/aliabdm/Ghost-Job-Detector) ⭐ NEW
+
+AI-powered web app that analyzes job descriptions and detects:
+- ghost jobs
+- scams
+- suspicious listings
+- misleading HR language
+
+Built with **Gemma 4**, the app translates corporate job descriptions into practical real-world meaning and recommends who should actually apply.
+
+**🔗 Live Demo:** https://ghost-job-detector-rlcx.vercel.app/
+
+**Tech:** `Next.js` `TypeScript` `OpenRouter` `Gemma 4` `Vercel`
+
+#### Key Features
+- 🤖 AI-powered job analysis
+- 🚩 Ghost-job & scam detection
+- 🧠 HR language translation layer
+- 👤 Candidate-fit analysis
+- 🔄 Multi-model Gemma fallback system
+- 📱 Mobile responsive UI
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
+### Languages & Frameworks
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Databases & Caching**
+### AI & Backend
+
+`Gemma 4` • `OpenRouter` • `RAG Systems` • `Prompt Engineering` • `AI Integrations` • `Microservices` • `REST APIs`
+
+### Databases & Infrastructure
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Infrastructure & Tools**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Architecture & Patterns**
-
-`Multi-Tenant SaaS` • `Microservices` • `HMVC` • `SOLID Principles` • `Design Patterns` • `RAG Systems` • `SSO Integration` • `API Design`
-
 ---
 
-## 🚀 Featured Projects
+## 🧩 Other Projects
 
-### 🤖 [Laravel AI Showcase](https://github.com/aliabdm/laravel-ai-showcase) ⭐ NEW!
-Complete AI agent built with **Laravel AI SDK** in 24 hours. Features real-time streaming, image generation, TTS, and vector search. Includes **Mock Mode** for instant demos without API keys.
+### 🤖 [Laravel AI Showcase](https://github.com/aliabdm/laravel-ai-showcase)
 
-**🔗 Live Demo:** [laravel-ai-showcase.onrender.com](https://laravel-ai-showcase.onrender.com/)
-
-**Tech:** `Laravel 12` `Laravel AI SDK` `Server-Sent Events` `Mock Provider` `Production-Ready`
-
-**Key Features:**
-- ✨ Mock Mode – Try without API keys
-- 🔄 Real-time streaming responses
-- 🎨 Image generation
-- 🔊 Text-to-speech
-- 🔍 Vector search with embeddings
-- 🎯 Session-based mode switching
-
----
-
-### 🤖 [Plainaid](https://github.com/aliabdm/plainaid)
-Transform complex legal and official documents into clear, actionable information using **Elixir**, **Phoenix LiveView**, and **AI**. Privacy-first approach with no signup required.
-
-**Tech:** `Elixir` `Phoenix LiveView` `AI/NLP` `Privacy-First Architecture`
+Production-style AI application built with Laravel AI SDK featuring:
+- streaming responses
+- image generation
+- vector search
+- mock mode for demos
 
 ---
 
 ### 💬 [PDF Chat RAG](https://github.com/aliabdm/pdf-chat-rag)
-Interactive PDF conversation tool powered by **RAG** (Retrieval-Augmented Generation). Upload any document and chat naturally using AI.
 
-**Tech:** `Python` `LangChain` `Groq` `FAISS` `RAG Architecture`
+RAG-powered PDF conversation tool using embeddings and vector search.
 
 ---
 
 ### 🏗️ [Furtec](https://github.com/aliabdm/Furtec)
-Laravel 11 application demonstrating enterprise-grade architecture with strict adherence to **Repository** and **Service Design Patterns**. Includes advanced seeding strategies and clean codebase structure.
 
-**Tech:** `Laravel 11` `PHP 8.2` `Repository Pattern` `Service Pattern` `Clean Architecture`
-
----
-
-### 🔗 [URL Shortener (Rails)](https://github.com/aliabdm/url-shortener-rails)
-Free and open-source URL shortener built with **Ruby on Rails**. Create short links, track clicks, and generate QR codes instantly.
-
-**Tech:** `Ruby on Rails` `PostgreSQL` `QR Code Generation`
+Enterprise Laravel architecture example implementing repository and service patterns.
 
 ---
 
 ### 📐 [HMVC Design Patterns](https://github.com/aliabdm/hmvc-dp)
-Comprehensive repository exploring **HMVC architecture** and design patterns in Laravel, featuring the Repository pattern implementation.
 
-**Tech:** `Laravel` `HMVC` `Repository Pattern` `Best Practices`
+Laravel HMVC architecture and repository-pattern exploration project.
 
 ---
 
 ## 💼 Professional Experience
 
-**Senior Software Engineer** @ Bayt.com *(Jan 2024 - Present)*
-- Leading development of **Evalufy.com**, a multi-tenant SaaS platform for AI-powered video assessments
-- Integrated with SAP SuccessFactors, Zapier, and other global HRMS platforms
-- Implemented SSO, optimized PostgreSQL performance, and architected ACID-compliant database schemas
-- Mentoring junior developers and driving adoption of SOLID principles and modern design patterns
+### Senior Software Engineer @ Bayt.com *(2024 - Present)*
 
-**Backend Developer** @ iHR - International Human Resources *(Dec 2021 - Dec 2023)*
-- Developed microservices for **Ihrjobs.com** ATS product
-- Created **Tabe3 platform** (CMS + API + Dispatcher) for real-time delivery tracking
-- Integrated driver applications with real-time communication systems
-
-**Software Engineer** *(2018 - 2021)*
-- Worked for a variety of clients and outsource, solutions and product-based companies
-
----
-
-## 🎯 Current Focus
-
-- 🏗️ Architecting scalable multi-tenant SaaS platforms at Bayt.com
-- 🤖 Exploring AI integration with Laravel AI SDK and RAG systems
-- 🔧 Building with Elixir/Phoenix and Ruby on Rails
-- 📚 Mentoring junior developers and promoting clean code practices
+Working on:
+- AI-powered HR systems
+- multi-tenant SaaS architecture
+- video assessment platforms
+- SAP SuccessFactors integrations
+- scalable backend infrastructure
 
 ---
 
 ## ✍️ Technical Writing
 
-I document my learning journey and share insights on software architecture, design patterns, and modern development practices:
+I write about:
+- AI integrations
+- backend architecture
+- SaaS systems
+- real-world engineering lessons
+- developer tooling
 
-- 📝 **[Dev.to Articles](https://dev.to/maliano63717738)** – Technical tutorials and guides
-- 📰 **[Medium Blog](https://medium.com/@aliabdm)** – Deep dives into software engineering
-- 📚 **[Documentation Portfolio](https://drive.google.com/drive/u/0/folders/1jbzXmJz7Uu3Ci7Uy2Q14qRQ6NtvnIIg)** – Research reports, studies, and project manuals
+### Articles & Platforms
+- 📝 Dev.to: https://dev.to/maliano63717738
+- 📰 Medium: https://medium.com/@aliabdm
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new opportunities, collaborations, or interesting technical challenges.
-
-- 💼 **LinkedIn:** [Mohammad Ali Abd Al-Wahed](https://www.linkedin.com/in/mohammad-ali-abdul-wahed-1533b9171/)
-- 📧 **Email:** aliabdm@gmail.com
-- 🌐 **Portfolio:** [senior-mohammad-ali.vercel.app](https://senior-mohammad-ali.vercel.app/)
-
----
-
-## 📍 Location & Nationality
-
-<div align="center">
-  
-### 🇸🇾 Syrian National
-  
-**Based in:** Amman, Jordan  
-**Work Preferences:** Open to Remote & Relocation  
-
-<img src="https://flagcdn.com/w320/sy.png" width="200" alt="Syrian Flag" />
-
-</div>
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammad-ali-abdul-wahed-1533b9171/
+- 📧 Email: aliabdm@gmail.com
+- 🌐 Portfolio: https://senior-mohammad-ali.vercel.app/
 
 ---
 
 <p align="center">
-  <i>"Building scalable systems, one clean commit at a time."</i>
+  <i>"Building practical systems that solve real-world problems."</i>
 </p>
