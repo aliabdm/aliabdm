@@ -8,7 +8,7 @@ Building scalable backend systems, AI-powered tools, and developer-focused produ
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Ali-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-ali-abdul-wahed-1533b9171/)
 [![Medium](https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@aliabdm)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Posts-0A0A0A?style=for-the-badge&logo=dev.to)](https://dev.to/maliano63717738)
-
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliabdm@gmail.com)
 ---
 
 ## About Me
