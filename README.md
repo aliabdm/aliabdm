@@ -32,17 +32,20 @@ Currently exploring:
 
 ## [ContextVault](https://github.com/aliabdm/ContextVault)
 
-Browser extension focused on solving one of the biggest AI workflow problems:
+Local-first context platform focused on solving one of the biggest AI workflow problems:
 
-> Moving context between AI models and platforms without losing memory, structure, or workflow continuity.
+> Preserving context across AI chats, coding agents, terminals, tools, accounts, and context windows without losing memory, structure, or workflow continuity.
+
+[![GitHub](https://img.shields.io/badge/GitHub-ContextVault-181717?style=for-the-badge&logo=github)](https://github.com/aliabdm/ContextVault)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://context-vault-two.vercel.app/)
 
 ### Features
 
-- Cross-platform AI context portability
-- Conversation export/import
-- Multi-LLM workflow support
-- Persistent context memory
-- Developer-focused tooling
+- Browser Capture for ChatGPT, Claude, Gemini, Perplexity, Poe, DeepSeek, and Copilot
+- Vault Terminal for Codex sessions, Claude Code work, Cursor workflows, notes, decisions, tasks, and problems
+- Local-first storage with no backend, no accounts, and no tracking
+- Portable Markdown and ZIP export for reusable context
+- Shared context model for future editor, agent, MCP, and retrieval integrations
 
 ---
 
@@ -51,7 +54,7 @@ Browser extension focused on solving one of the biggest AI workflow problems:
 ## AI & Productivity
 
 - [ContextVault](https://github.com/aliabdm/ContextVault)  
-  AI context portability & workflow persistence extension
+  Local-first context platform for browser LLM chats, coding-agent sessions, and portable project memory
 
 - [Ghost Job Detector](https://github.com/aliabdm/ghost-job-detector)  
   AI tool that analyzes suspicious job posts
