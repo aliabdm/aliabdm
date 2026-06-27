@@ -63,7 +63,7 @@ ContextVault is focused on solving one of the biggest AI workflow problems:
 
 > Preserving context across AI chats, coding agents, terminals, tools, accounts, and context windows without losing memory, structure, or workflow continuity.
 
-It now goes beyond recording. The local Context Engine normalizes terminal sessions into shared context events, builds a searchable project index, retrieves relevant decisions and tasks, and prepares focused Markdown context packages for the next AI agent.
+It now goes beyond recording. Browser Markdown/ZIP exports and terminal sessions can enter the same local Context Engine, which normalizes them into shared context events, builds one searchable project index, retrieves relevant history, and prepares focused Markdown context packages for the next AI agent.
 
 ### What It Does
 
@@ -71,7 +71,8 @@ It now goes beyond recording. The local Context Engine normalizes terminal sessi
 |---|---|
 | Browser Capture | Captures conversations across ChatGPT, Claude, Gemini, Perplexity, Poe, DeepSeek, and Copilot |
 | Vault Terminal | Captures Codex sessions, Claude Code work, Cursor workflows, notes, decisions, tasks, and problems |
-| Context Engine | Indexes and retrieves relevant sessions, decisions, tasks, problems, notes, and messages |
+| Unified Context Engine | Imports browser exports and indexes them together with terminal sessions |
+| Cross-surface Retrieval | Retrieves relevant browser messages, decisions, tasks, problems, and notes in one query |
 | Agent Context Packages | Prepares focused Markdown context for Codex, Claude Code, Cursor, and other AI tools |
 | Project Memory | Maintains long-term memory, links related sessions, and generates a project timeline |
 | Local Memory | Stores context locally with no backend, no accounts, and no tracking |
@@ -82,6 +83,8 @@ It now goes beyond recording. The local Context Engine normalizes terminal sessi
 
 ```text
 Browser Capture + Terminal Capture
+                  |
+        Markdown / ZIP Import
                   |
           Shared Context Layer
                   |
@@ -98,7 +101,7 @@ Browser Capture + Terminal Capture
 
 | Project | Description |
 |---|---|
-| [ContextVault](https://github.com/aliabdm/ContextVault) | Local-first context engine for browser chats, coding-agent sessions, retrieval, and portable project memory |
+| [ContextVault](https://github.com/aliabdm/ContextVault) | Local-first engine that unifies exported browser chats and coding-agent sessions into searchable project memory |
 | [Ghost Job Detector](https://github.com/aliabdm/ghost-job-detector) | AI tool that analyzes suspicious job posts |
 | [Laravel AI Showcase](https://github.com/aliabdm/laravel-ai-showcase) | AI agents, streaming, image generation, and TTS |
 | [PDF Chat RAG](https://github.com/aliabdm/pdf-chat-rag) | Chat with PDFs using LangChain + FAISS |
