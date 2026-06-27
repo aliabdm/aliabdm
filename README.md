@@ -56,6 +56,7 @@ Currently exploring:
 [![Local First](https://img.shields.io/badge/Local--First-16A34A?style=for-the-badge)](https://github.com/aliabdm/ContextVault)
 [![Browser + Terminal](https://img.shields.io/badge/Browser%20%2B%20Terminal-F97316?style=for-the-badge)](https://github.com/aliabdm/ContextVault)
 [![Context Engine](https://img.shields.io/badge/Context-Engine-2563EB?style=for-the-badge)](https://github.com/aliabdm/ContextVault)
+[![npm](https://img.shields.io/npm/v/@aliabdm/contextvault?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/@aliabdm/contextvault)
 
 </div>
 
@@ -95,6 +96,12 @@ Browser Capture + Terminal Capture
 ```
 
 Examples include `contextvault history --since 2w`, `contextvault decisions auth --source codex`, and `contextvault problems redis --since 30d`.
+
+Try Vault Terminal directly:
+
+```bash
+npx @aliabdm/contextvault init
+```
 
 ---
 
