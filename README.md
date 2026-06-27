@@ -73,6 +73,7 @@ It now goes beyond recording. Browser Markdown/ZIP exports and terminal sessions
 | Vault Terminal | Captures Codex sessions, Claude Code work, Cursor workflows, notes, decisions, tasks, and problems |
 | Unified Context Engine | Imports browser exports and indexes them together with terminal sessions |
 | Cross-surface Retrieval | Retrieves relevant browser messages, decisions, tasks, problems, and notes in one query |
+| Evidence Queries | Filters project history by topic, source, event type, and time without sending context to an AI API |
 | Agent Context Packages | Prepares focused Markdown context for Codex, Claude Code, Cursor, and other AI tools |
 | Project Memory | Maintains long-term memory, links related sessions, and generates a project timeline |
 | Local Memory | Stores context locally with no backend, no accounts, and no tracking |
@@ -92,6 +93,8 @@ Browser Capture + Terminal Capture
                   |
       Local Markdown Memory
 ```
+
+Examples include `contextvault history --since 2w`, `contextvault decisions auth --source codex`, and `contextvault problems redis --since 30d`.
 
 ---
 
