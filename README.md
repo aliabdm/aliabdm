@@ -55,6 +55,7 @@ Currently exploring:
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://context-vault-two.vercel.app/)
 [![Local First](https://img.shields.io/badge/Local--First-16A34A?style=for-the-badge)](https://github.com/aliabdm/ContextVault)
 [![Browser + Terminal](https://img.shields.io/badge/Browser%20%2B%20Terminal-F97316?style=for-the-badge)](https://github.com/aliabdm/ContextVault)
+[![Context Engine](https://img.shields.io/badge/Context-Engine-2563EB?style=for-the-badge)](https://github.com/aliabdm/ContextVault)
 
 </div>
 
@@ -62,15 +63,32 @@ ContextVault is focused on solving one of the biggest AI workflow problems:
 
 > Preserving context across AI chats, coding agents, terminals, tools, accounts, and context windows without losing memory, structure, or workflow continuity.
 
+It now goes beyond recording. The local Context Engine normalizes terminal sessions into shared context events, builds a searchable project index, retrieves relevant decisions and tasks, and prepares focused Markdown context packages for the next AI agent.
+
 ### What It Does
 
 | Surface | Purpose |
 |---|---|
 | Browser Capture | Captures conversations across ChatGPT, Claude, Gemini, Perplexity, Poe, DeepSeek, and Copilot |
 | Vault Terminal | Captures Codex sessions, Claude Code work, Cursor workflows, notes, decisions, tasks, and problems |
+| Context Engine | Indexes and retrieves relevant sessions, decisions, tasks, problems, notes, and messages |
+| Agent Context Packages | Prepares focused Markdown context for Codex, Claude Code, Cursor, and other AI tools |
+| Project Memory | Maintains long-term memory, links related sessions, and generates a project timeline |
 | Local Memory | Stores context locally with no backend, no accounts, and no tracking |
 | Portable Export | Exports reusable Markdown and ZIP files |
 | Shared Context Model | Foundation for future editor, agent, MCP, and retrieval integrations |
+
+**Git tracks code. ContextVault tracks context.**
+
+```text
+Browser Capture + Terminal Capture
+                  |
+          Shared Context Layer
+                  |
+     Index | Retrieve | Prepare
+                  |
+      Local Markdown Memory
+```
 
 ---
 
@@ -80,7 +98,7 @@ ContextVault is focused on solving one of the biggest AI workflow problems:
 
 | Project | Description |
 |---|---|
-| [ContextVault](https://github.com/aliabdm/ContextVault) | Local-first context platform for browser LLM chats, coding-agent sessions, and portable project memory |
+| [ContextVault](https://github.com/aliabdm/ContextVault) | Local-first context engine for browser chats, coding-agent sessions, retrieval, and portable project memory |
 | [Ghost Job Detector](https://github.com/aliabdm/ghost-job-detector) | AI tool that analyzes suspicious job posts |
 | [Laravel AI Showcase](https://github.com/aliabdm/laravel-ai-showcase) | AI agents, streaming, image generation, and TTS |
 | [PDF Chat RAG](https://github.com/aliabdm/pdf-chat-rag) | Chat with PDFs using LangChain + FAISS |
