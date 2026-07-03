@@ -59,7 +59,7 @@ Currently exploring:
 [![Desktop](https://img.shields.io/badge/Desktop-Windows%20%7C%20Linux%20%7C%20macOS%20source-22C55E?style=for-the-badge)](https://context-vault-two.vercel.app/download)
 [![npm](https://img.shields.io/npm/v/@aliabdm/contextvault?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/@aliabdm/contextvault)
 [![npm downloads](https://img.shields.io/npm/dm/@aliabdm/contextvault?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/@aliabdm/contextvault)
-[![GitHub downloads](https://img.shields.io/github/downloads/aliabdm/ContextVault/total?style=for-the-badge&logo=github&color=6366f1)](https://github.com/aliabdm/ContextVault/releases)
+[![Desktop download stats](https://img.shields.io/badge/Desktop_download_stats-Live-6366f1?style=for-the-badge&logo=github)](https://context-vault-two.vercel.app/stats)
 
 </div>
 
@@ -67,7 +67,7 @@ ContextVault is focused on solving one of the biggest AI workflow problems:
 
 > Preserving context across AI chats, coding agents, terminals, tools, accounts, and context windows without losing memory, structure, or workflow continuity.
 
-It now goes beyond recording. Browser Markdown/ZIP exports and terminal sessions can enter the same local Context Engine, which normalizes them into shared context events, builds one searchable project index, retrieves relevant history, and prepares focused Markdown context packages for the next AI agent. The Desktop app ships for Windows and Linux, with macOS supported as a local source build.
+It now goes beyond recording. Browser Markdown/ZIP exports, Desktop recordings, and terminal sessions can enter the same local Context Engine, which normalizes them into shared context events, builds searchable per-project indexes, retrieves relevant history, and prepares focused Markdown context packages for the next AI agent. The Desktop app includes an explicit session recorder and multi-project switching, and ships for Windows and Linux, with macOS supported as a local source build.
 
 ### What It Does
 
@@ -107,7 +107,7 @@ Try Vault Terminal directly:
 npx @aliabdm/contextvault init
 ```
 
-Or download the [Desktop App](https://context-vault-two.vercel.app/download) for Windows or Linux. macOS can be built locally from source.
+Or download the [Desktop App](https://context-vault-two.vercel.app/download) for Windows or Linux. Add a project, click **Start recording**, and save structured events without leaving the UI. You can switch between multiple independent local vaults from the sidebar. macOS can be built locally from source. [Public Desktop download stats](https://context-vault-two.vercel.app/stats) are counted from GitHub release assets without in-app telemetry.
 
 | | |
 |---|---|
