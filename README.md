@@ -56,7 +56,10 @@ Currently exploring:
 [![Local First](https://img.shields.io/badge/Local--First-16A34A?style=for-the-badge)](https://github.com/aliabdm/ContextVault)
 [![Browser + Terminal](https://img.shields.io/badge/Browser%20%2B%20Terminal-F97316?style=for-the-badge)](https://github.com/aliabdm/ContextVault)
 [![Context Engine](https://img.shields.io/badge/Context-Engine-2563EB?style=for-the-badge)](https://github.com/aliabdm/ContextVault)
+[![Desktop](https://img.shields.io/badge/Desktop-win%20%7C%20mac%20%7C%20linux-22C55E?style=for-the-badge)](https://github.com/aliabdm/ContextVault/releases)
 [![npm](https://img.shields.io/npm/v/@aliabdm/contextvault?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/@aliabdm/contextvault)
+[![npm downloads](https://img.shields.io/npm/dm/@aliabdm/contextvault?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/@aliabdm/contextvault)
+[![GitHub downloads](https://img.shields.io/github/downloads/aliabdm/ContextVault/total?style=for-the-badge&logo=github&color=6366f1)](https://github.com/aliabdm/ContextVault/releases)
 
 </div>
 
@@ -64,12 +67,13 @@ ContextVault is focused on solving one of the biggest AI workflow problems:
 
 > Preserving context across AI chats, coding agents, terminals, tools, accounts, and context windows without losing memory, structure, or workflow continuity.
 
-It now goes beyond recording. Browser Markdown/ZIP exports and terminal sessions can enter the same local Context Engine, which normalizes them into shared context events, builds one searchable project index, retrieves relevant history, and prepares focused Markdown context packages for the next AI agent.
+It now goes beyond recording. Browser Markdown/ZIP exports and terminal sessions can enter the same local Context Engine, which normalizes them into shared context events, builds one searchable project index, retrieves relevant history, and prepares focused Markdown context packages for the next AI agent. The Desktop app provides a visual interface for Windows, macOS, and Linux.
 
 ### What It Does
 
 | Surface | Purpose |
-|---|---|
+|---|---|---|
+| Desktop App | Visual context manager for Windows, macOS, and Linux — Dashboard, Sessions, Search, Prepare, Export |
 | Browser Capture | Captures conversations across ChatGPT, Claude, Gemini, Perplexity, Poe, DeepSeek, and Copilot |
 | Vault Terminal | Captures Codex sessions, Claude Code work, Cursor workflows, notes, decisions, tasks, and problems |
 | Unified Context Engine | Imports browser exports and indexes them together with terminal sessions |
@@ -84,7 +88,7 @@ It now goes beyond recording. Browser Markdown/ZIP exports and terminal sessions
 **Git tracks code. ContextVault tracks context.**
 
 ```text
-Browser Capture + Terminal Capture
+Browser Capture + Terminal Capture + Desktop App
                   |
         Markdown / ZIP Import
                   |
@@ -103,6 +107,14 @@ Try Vault Terminal directly:
 npx @aliabdm/contextvault init
 ```
 
+Or download the [Desktop App](https://github.com/aliabdm/ContextVault/releases) for Windows, macOS, or Linux.
+
+| | |
+|---|---|
+| 📖 Medium | [@aliabdm](https://medium.com/@aliabdm) |
+| ✍️ Dev.to | [@maliano63717738](https://dev.to/maliano63717738) |
+| 🌐 Portfolio | [senior-mohammad-ali.vercel.app](https://senior-mohammad-ali.vercel.app/) |
+
 ---
 
 ## Open Source Projects
@@ -111,7 +123,7 @@ npx @aliabdm/contextvault init
 
 | Project | Description |
 |---|---|
-| [ContextVault](https://github.com/aliabdm/ContextVault) | Local-first engine that unifies exported browser chats and coding-agent sessions into searchable project memory |
+| [ContextVault](https://github.com/aliabdm/ContextVault) | Local-first engine with Desktop app — unifies browser chats and coding sessions into searchable project memory |
 | [Ghost Job Detector](https://github.com/aliabdm/ghost-job-detector) | AI tool that analyzes suspicious job posts |
 | [Laravel AI Showcase](https://github.com/aliabdm/laravel-ai-showcase) | AI agents, streaming, image generation, and TTS |
 | [PDF Chat RAG](https://github.com/aliabdm/pdf-chat-rag) | Chat with PDFs using LangChain + FAISS |
