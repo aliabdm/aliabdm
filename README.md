@@ -67,7 +67,7 @@ ContextVault is focused on solving one of the biggest AI workflow problems:
 
 > Preserving context across AI chats, coding agents, terminals, tools, accounts, and context windows without losing memory, structure, or workflow continuity.
 
-It now goes beyond recording. Browser Markdown/ZIP exports, Desktop recordings, and terminal sessions can enter the same local Context Engine, which normalizes them into shared context events, builds searchable per-project indexes, retrieves relevant history, and prepares focused Markdown context packages for the next AI agent. The Desktop app includes an explicit session recorder and multi-project switching, and ships for Windows and Linux, with macOS supported as a local source build.
+It now goes beyond recording. Browser Markdown/ZIP exports, Desktop recordings, and terminal sessions can enter the same local Context Engine, which normalizes them into shared context events, builds searchable per-project indexes, retrieves relevant history, and prepares focused Markdown context packages for the next AI agent. The Desktop app includes an explicit recorder with automatic on-device event classification and multi-project switching, and ships for Windows and Linux, with macOS supported as a local source build.
 
 ### What It Does
 
@@ -107,7 +107,7 @@ Try Vault Terminal directly:
 npx @aliabdm/contextvault init
 ```
 
-Or download the [Desktop App](https://context-vault-two.vercel.app/download) for Windows or Linux. Add a project, click **Start recording**, and save structured events without leaving the UI. You can switch between multiple independent local vaults from the sidebar. macOS can be built locally from source. [Public Desktop download stats](https://context-vault-two.vercel.app/stats) are counted from GitHub release assets without in-app telemetry.
+Or download the [Desktop App](https://context-vault-two.vercel.app/download) for Windows or Linux. Add a project, click **Start recording**, and write naturally while Desktop classifies User, Agent, Decision, Task, Problem, and Note events locally with no model or API call. You can switch between multiple independent local vaults from the sidebar. macOS can be built locally from source. [Public Desktop download stats](https://context-vault-two.vercel.app/stats) are counted from GitHub release assets without in-app telemetry.
 
 | | |
 |---|---|
