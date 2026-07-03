@@ -107,7 +107,7 @@ Try Vault Terminal directly:
 npx @aliabdm/contextvault init
 ```
 
-Or download the [Desktop App](https://context-vault-two.vercel.app/download) for Windows or Linux. Add a project and use visible controls for every `contextvault` command, including the real package recorder, list, show, search, retrieve, prepare, memory, history, and timeline. Existing `.contextvault` sessions appear directly. [Public Desktop download stats](https://context-vault-two.vercel.app/stats) are counted from GitHub release assets without in-app telemetry.
+Or download the [Desktop App](https://context-vault-two.vercel.app/download) for Windows or Linux. v1.8.0 is a full GUI product: Record, History, Decisions, Problems, Tasks, Retrieve, Search, Prepare, Link, Import, Memory, Timeline, and Export all have dedicated controls and result screens. Desktop watches the same `.contextvault` files as the CLI, so externally written sessions appear live; raw arguments are optional under Advanced CLI Mode. [Public Desktop download stats](https://context-vault-two.vercel.app/stats) are counted from GitHub release assets without in-app telemetry.
 
 | | |
 |---|---|
