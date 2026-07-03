@@ -63,57 +63,27 @@ Currently exploring:
 
 </div>
 
-ContextVault is focused on solving one of the biggest AI workflow problems:
+ContextVault solves one of the biggest AI workflow problems: preserving context across AI chats, coding agents, terminals, tools, accounts, and context windows — without losing memory, structure, or continuity.
 
-> Preserving context across AI chats, coding agents, terminals, tools, accounts, and context windows without losing memory, structure, or workflow continuity.
-
-It now goes beyond recording. Browser Markdown/ZIP exports, Desktop recordings, and terminal sessions can enter the same local Context Engine, which normalizes them into shared context events, builds searchable per-project indexes, retrieves relevant history, and prepares focused Markdown context packages for the next AI agent. The Desktop app is a GUI over the bundled package commands: it launches the real recorder, reads existing vaults, refreshes external CLI sessions, and ships for Windows and Linux, with macOS supported as a local source build.
-
-### What It Does
-
-| Surface | Purpose |
-|---|---|---|
-| Desktop App | Dashboard, Sessions, event timelines, filtered Search, Prepare, Memory, Timeline, Index, and full Export |
-| Browser Capture | Captures conversations across ChatGPT, Claude, Gemini, Perplexity, Poe, DeepSeek, and Copilot |
-| Vault Terminal | Captures Codex sessions, Claude Code work, Cursor workflows, notes, decisions, tasks, and problems |
-| Unified Context Engine | Imports browser exports and indexes them together with terminal sessions |
-| Cross-surface Retrieval | Retrieves relevant browser messages, decisions, tasks, problems, and notes in one query |
-| Evidence Queries | Filters project history by topic, source, event type, and time without sending context to an AI API |
-| Agent Context Packages | Prepares focused Markdown context for Codex, Claude Code, Cursor, and other AI tools |
-| Project Memory | Maintains long-term memory, links related sessions, and generates a project timeline |
-| Local Memory | Stores context locally with no backend, no accounts, and no tracking |
-| Portable Export | Exports reusable Markdown and ZIP files |
-| Shared Context Model | Foundation for future editor, agent, MCP, and retrieval integrations |
+| Surface | What it does |
+|---|---|
+| **Desktop App** | Full GUI over the bundled CLI: Record, History, Decisions, Problems, Tasks, Retrieve, Search, Prepare, Memory, Timeline, Export. Multi-project. Live watched-file sync. |
+| **Browser Capture** | Records conversations from ChatGPT, Claude, Gemini, Perplexity, Poe, DeepSeek, Copilot. Exports Markdown or ZIP. |
+| **Terminal Capture** | Records Codex, Claude Code, Cursor sessions, notes, decisions, tasks, problems as raw Markdown. |
+| **Unified Context Engine** | Imports browser exports and terminal sessions into one local index. Cross-surface retrieval. Deterministic ranking. |
+| **Agent Context Packages** | Prepares focused Markdown for the next Codex, Claude Code, or Cursor run. |
 
 **Git tracks code. ContextVault tracks context.**
 
-```text
-Browser Capture + Terminal Capture + Desktop App
-                  |
-        Markdown / ZIP Import
-                  |
-          Shared Context Layer
-                  |
-     Index | Retrieve | Prepare
-                  |
-      Local Markdown Memory
-```
-
-Examples include `contextvault history --since 2w`, `contextvault decisions auth --source codex`, and `contextvault problems redis --since 30d`.
-
-Try Vault Terminal directly:
+Try the CLI directly:
 
 ```bash
 npx @aliabdm/contextvault init
 ```
 
-Or download the [Desktop App](https://context-vault-two.vercel.app/download) for Windows or Linux. v1.8.0 is a full GUI product: Record, History, Decisions, Problems, Tasks, Retrieve, Search, Prepare, Link, Import, Memory, Timeline, and Export all have dedicated controls and result screens. Desktop watches the same `.contextvault` files as the CLI, so externally written sessions appear live; raw arguments are optional under Advanced CLI Mode. [Public Desktop download stats](https://context-vault-two.vercel.app/stats) are counted from GitHub release assets without in-app telemetry.
+Or download the [Desktop App](https://context-vault-two.vercel.app/download) for Windows or Linux (macOS via source build). Recording is a visible, explicit action — no background surveillance, no telemetry. Live [Desktop download stats](https://context-vault-two.vercel.app/stats) come from GitHub release assets without in-app tracking.
 
-| | |
-|---|---|
-| 📖 Medium | [@aliabdm](https://medium.com/@aliabdm) |
-| ✍️ Dev.to | [@maliano63717738](https://dev.to/maliano63717738) |
-| 🌐 Portfolio | [senior-mohammad-ali.vercel.app](https://senior-mohammad-ali.vercel.app/) |
+More details in the [full project README](https://github.com/aliabdm/ContextVault#readme).
 
 ---
 
