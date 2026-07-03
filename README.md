@@ -56,7 +56,7 @@ Currently exploring:
 [![Local First](https://img.shields.io/badge/Local--First-16A34A?style=for-the-badge)](https://github.com/aliabdm/ContextVault)
 [![Browser + Terminal](https://img.shields.io/badge/Browser%20%2B%20Terminal-F97316?style=for-the-badge)](https://github.com/aliabdm/ContextVault)
 [![Context Engine](https://img.shields.io/badge/Context-Engine-2563EB?style=for-the-badge)](https://github.com/aliabdm/ContextVault)
-[![Desktop](https://img.shields.io/badge/Desktop-win%20%7C%20mac%20%7C%20linux-22C55E?style=for-the-badge)](https://github.com/aliabdm/ContextVault/releases)
+[![Desktop](https://img.shields.io/badge/Desktop-Windows%20%7C%20Linux%20%7C%20macOS%20source-22C55E?style=for-the-badge)](https://context-vault-two.vercel.app/download)
 [![npm](https://img.shields.io/npm/v/@aliabdm/contextvault?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/@aliabdm/contextvault)
 [![npm downloads](https://img.shields.io/npm/dm/@aliabdm/contextvault?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/@aliabdm/contextvault)
 [![GitHub downloads](https://img.shields.io/github/downloads/aliabdm/ContextVault/total?style=for-the-badge&logo=github&color=6366f1)](https://github.com/aliabdm/ContextVault/releases)
@@ -67,13 +67,13 @@ ContextVault is focused on solving one of the biggest AI workflow problems:
 
 > Preserving context across AI chats, coding agents, terminals, tools, accounts, and context windows without losing memory, structure, or workflow continuity.
 
-It now goes beyond recording. Browser Markdown/ZIP exports and terminal sessions can enter the same local Context Engine, which normalizes them into shared context events, builds one searchable project index, retrieves relevant history, and prepares focused Markdown context packages for the next AI agent. The Desktop app provides a visual interface for Windows, macOS, and Linux.
+It now goes beyond recording. Browser Markdown/ZIP exports and terminal sessions can enter the same local Context Engine, which normalizes them into shared context events, builds one searchable project index, retrieves relevant history, and prepares focused Markdown context packages for the next AI agent. The Desktop app ships for Windows and Linux, with macOS supported as a local source build.
 
 ### What It Does
 
 | Surface | Purpose |
 |---|---|---|
-| Desktop App | Visual context manager for Windows, macOS, and Linux — Dashboard, Sessions, Search, Prepare, Export |
+| Desktop App | Dashboard, Sessions, event timelines, filtered Search, Prepare, Memory, Timeline, Index, and full Export |
 | Browser Capture | Captures conversations across ChatGPT, Claude, Gemini, Perplexity, Poe, DeepSeek, and Copilot |
 | Vault Terminal | Captures Codex sessions, Claude Code work, Cursor workflows, notes, decisions, tasks, and problems |
 | Unified Context Engine | Imports browser exports and indexes them together with terminal sessions |
@@ -107,7 +107,7 @@ Try Vault Terminal directly:
 npx @aliabdm/contextvault init
 ```
 
-Or download the [Desktop App](https://github.com/aliabdm/ContextVault/releases) for Windows, macOS, or Linux.
+Or download the [Desktop App](https://context-vault-two.vercel.app/download) for Windows or Linux. macOS can be built locally from source.
 
 | | |
 |---|---|
